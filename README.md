@@ -30,7 +30,7 @@ Version control </pre>
 <p> Sheridan college &copy; </p>
 <p> Sheridan college &trade; </p>
 <p> Sheridan college &reg; </p>
-<p> Sheridan college &euro; </p>
+<p> Sheridan collegee &euro; </p>
 </body>
 
 </html>
